@@ -1,4 +1,4 @@
-RTV Contest Volunteer Guide
+# RTV Contest Volunteer Guide
 
 ### Thank you so much for helping be a volunteer! The RTV has put together a helpful guide to help volunteers with questions during DEF CON 29.
 
