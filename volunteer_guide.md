@@ -14,7 +14,7 @@ The contest booths will be located in Ballyʼs Event Center in the 'CONTESTS' ar
 
 ## What is the schedule for the RTV CTF Stream?
 
-The schedule for the RTV stream is located at https://redteamvillage.io/schedule.html. 
+The schedule for the RTV CTF stream is located at https://redteamvillage.io/schedule.html. 
 
 # Discord FAQs 
 
