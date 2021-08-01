@@ -2,6 +2,12 @@
 
 ### Thank you so much for helping be a volunteer! The RTV has put together a helpful guide to help volunteers with questions during DEF CON 29.
 
+# Discord FAQs 
+
+## Are people allowed to chat in the RTV Discord?
+
+All conversations must be in the OFFICIAL DEF CON server. Please help us direct all conversations to the OFFICIAL DEF CON server. This is a requirement for DEF CON. The DEF CON Discord server is located at discord.gg/defcon. DEF CON attendees will utilize their badge codes to unlock their role in the DEF CON server. 
+
 # Hybrid FAQs
 
 ## How do volunteers check in? 
@@ -15,12 +21,6 @@ The contest booths will be located in Ballyʼs Event Center in the 'CONTESTS' ar
 ## What is the schedule for the RTV CTF Stream?
 
 The schedule for the RTV CTF stream is located at https://redteamvillage.io/schedule.html. 
-
-# Discord FAQs 
-
-## Are people allowed to chat in the RTV Discord?
-
-All conversations must be in the OFFICIAL DEF CON server. Please help us direct all conversations to the OFFICIAL DEF CON server. This is a requirement for DEF CON. The DEF CON Discord server is located at discord.gg/defcon. DEF CON attendees will utilize their badge codes to unlock their role in the DEF CON server. 
 
 ## How many CTFs is RTV is hosting at DEF CON?
 
